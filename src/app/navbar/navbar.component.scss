@@ -1,0 +1,9 @@
+$main-color: #E84393;
+.navbar {
+    color: $main-color;
+    box-shadow: 0 0 7px grey;
+    span {
+        font-size: 25px;
+        font-weight: 500;
+    }
+}
